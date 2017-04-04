@@ -5,3 +5,4 @@
 *.kicad_pcb-bak
 *.rpt
 $*
+output/
